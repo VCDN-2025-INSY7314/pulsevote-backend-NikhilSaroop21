@@ -4,7 +4,8 @@ BACKEND README
 
 # PulseVote API (Express + MongoDB + JWT)
 
-**Video demo:** [<ADD_YOUTUBE_LINK_HERE>](https://youtu.be/Tv-hmkZs-GU?si=9hV0Ca34QMUJhsVC)
+**Video demo:** 
+(https://youtu.be/Tv-hmkZs-GU?si=9hV0Ca34QMUJhsVC)
 
 ## What this is
 Secure REST API that handles **register**, **login**, and a **JWT‑protected** example route.
